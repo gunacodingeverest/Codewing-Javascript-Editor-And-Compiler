@@ -1,6 +1,6 @@
 {
   "name": "codewing",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@codewing/local-client": "^1.0.0"
+    "@codewing/local-client": "^1.1.0"
   },
   "devDependencies": {
-    "@codewing/local-api": "^1.0.0",
+    "@codewing/local-api": "^1.1.0",
     "@types/node": "^16.4.13",
     "commander": "^8.1.0",
     "esbuild": "0.8.26",
